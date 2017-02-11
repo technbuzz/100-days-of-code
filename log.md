@@ -37,3 +37,11 @@ inputs.forEach(function(input){
 ```
 
 **Link(s) to work** [Hold shift to select all checkbox](http://https://github.com/technbuzz/codejs30/commit/528e6e79a2ffdedc8e9969233f7fa93580f9b04d)
+
+### Day 2: February 11, 2017 - Saturday
+
+**Today's Progress**: Refactored old code for sass 
+
+**Thoughts** Went throught this [article](http://https://medium.com/front-end-developers/the-solution-to-media-queries-in-sass-5493ebe16844#.y0o6afmfh) and learned how to
+cope with the duplicate media queries when writing inline sass
+**Link(s) to work** Worked locally
