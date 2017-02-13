@@ -54,3 +54,11 @@ cope with the duplicate media queries when writing inline sass
 if it is paused. It also accepts an events when it's **paused** or when it's **running**
 
 **Link(s) to work** [Customize Html5 Video](http://https://github.com/technbuzz/codejs30/commit/897dfbb2747f06311b3c35c29c79c3bff798b418)
+
+### Day 4: February 13, 2017 - Monday
+
+**Today's Progress**: Portfolio 
+
+**Thoughts** Working on the portfolio. Not directly related to code because most of the time spend in wireframing. One thing I did learned we should not spend much time and energy for low fidelity wireframes. I went through moqups, mocking bird and many other tools but finally sticked with wireframe.cc
+
+**Link(s) to work** Worked Locally
