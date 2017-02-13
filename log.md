@@ -45,3 +45,12 @@ inputs.forEach(function(input){
 **Thoughts** Went throught this [article](http://https://medium.com/front-end-developers/the-solution-to-media-queries-in-sass-5493ebe16844#.y0o6afmfh) and learned how to
 cope with the duplicate media queries when writing inline sass
 **Link(s) to work** Worked locally
+
+### Day 3: February 12, 2017 - Sunday
+
+**Today's Progress**: Customizing Html Video Player 
+
+**Thoughts** Playing through the html video api. Learnt that you can't check if video is playing but you go the reverse by checking
+if it is paused. It also accepts an events when it's **paused** or when it's **running**
+
+**Link(s) to work** [Customize Html5 Video](http://https://github.com/technbuzz/codejs30/commit/897dfbb2747f06311b3c35c29c79c3bff798b418)
