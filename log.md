@@ -62,3 +62,11 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Working on the portfolio. Not directly related to code because most of the time spend in wireframing. One thing I did learned we should not spend much time and energy for low fidelity wireframes. I went through moqups, mocking bird and many other tools but finally sticked with wireframe.cc
 
 **Link(s) to work** Worked Locally
+
+### Day 5: February 14, 2017 - Tuesday
+
+**Today's Progress**: Portfolio 
+
+**Thoughts** Contiinued Working on the portfolio. Started working on setting up the workflow. Switched from gulp-sass to gulp-ruby-sass which does requires the ruby,gem. Because it is faster.
+
+**Link(s) to work** Worked Locally
