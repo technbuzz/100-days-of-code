@@ -70,3 +70,11 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Contiinued Working on the portfolio. Started working on setting up the workflow. Switched from gulp-sass to gulp-ruby-sass which does requires the ruby,gem. Because it is faster.
 
 **Link(s) to work** Worked Locally
+
+### Day 6: February 15, 2017 - Wednesday
+
+**Today's Progress**: Blogging 
+
+**Thoughts** Wrote weekly coding report discussing Debouncing/throttling Javascript for performance, highlighting adjacent label on checking checkbox, Vscode extension and many more
+
+**Link(s) to work** [Coding Activity for Week 07 2017](http://www.technbuzz.com/2017/02/15/coding-activities-for-week-07-2017/)
