@@ -78,3 +78,11 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Wrote weekly coding report discussing Debouncing/throttling Javascript for performance, highlighting adjacent label on checking checkbox, Vscode extension and many more
 
 **Link(s) to work** [Coding Activity for Week 07 2017](http://www.technbuzz.com/2017/02/15/coding-activities-for-week-07-2017/)
+
+### Day 7: February 17, 2017 - Friday
+
+**Today's Progress**: A11y 
+
+**Thoughts** Worked on Accessibility, added focus state to the button and links also working  making the off screen nav unfocussable when collapsed
+
+**Link(s) to work** Worked Locally
