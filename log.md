@@ -86,3 +86,11 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Worked on Accessibility, added focus state to the button and links also working  making the off screen nav unfocussable when collapsed
 
 **Link(s) to work** Worked Locally
+
+### Day 8: February 18, 2017 - Saturday
+
+**Today's Progress**: A11y 
+
+**Thoughts** Continued Working on Accessibility off screen nav unfocussable when collapsed
+
+**Link(s) to work** Worked Locally
