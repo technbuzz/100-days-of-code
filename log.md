@@ -94,3 +94,13 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Continued Working on Accessibility off screen nav unfocussable when collapsed
 
 **Link(s) to work** Worked Locally
+
+### Day 9: March 9, 2017 - Thursday
+
+**Today's Progress**: Portfolio 
+
+**Thoughts** Continued Working on my portfolio. The Wireframes and high fidelity mockup is converted to HTML and CSS. There is still a lot of work remains in the Responsive Design. I did used susy sass.
+
+**Note** I am resuming my *#100daysofCode* challenge after the gap of 19 days. So I've to make up for that by completing *#119daysofCode*
+
+**Link(s) to work** [Portfolio](http://technbuzz.com/portfolio)
