@@ -104,3 +104,13 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Note** I am resuming my *#100daysofCode* challenge after the gap of 19 days. So I've to make up for that by completing *#119daysofCode*
 
 **Link(s) to work** [Portfolio](http://technbuzz.com/portfolio)
+
+---
+
+### Day 9: March 10, 2017 - Friday
+
+**Today's Progress**: Employee List Mean App 
+
+**Thoughts** Just wanted to brush up my skills with Mean stack up. I practiced on basic crud app. Mongodb is very new to me now. get and post on the node side are doing most of the job. Node can't parse the request for this we need the body-parser module.
+
+**Link(s) to work** Worked Locally, here is hosted image [Employee MEAN app](https://www.screencast.com/t/9qWmj7H0sI)
