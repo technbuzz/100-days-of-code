@@ -107,10 +107,20 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 
 ---
 
-### Day 9: March 10, 2017 - Friday
+### Day 10: March 10, 2017 - Friday
 
 **Today's Progress**: Employee List Mean App 
 
 **Thoughts** Just wanted to brush up my skills with Mean stack up. I practiced on basic crud app. Mongodb is very new to me now. get and post on the node side are doing most of the job. Node can't parse the request for this we need the body-parser module.
 
 **Link(s) to work** Worked Locally, here is hosted image [Employee MEAN app](https://www.screencast.com/t/9qWmj7H0sI)
+
+---
+
+### Day 11: March 12, 2017 - Sunday
+
+**Today's Progress**: Employee List Mean App 
+
+**Thoughts** Continued working on the mean app. Added the country crud module.
+
+**Link(s) to work** Worked Locally
