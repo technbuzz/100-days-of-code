@@ -124,3 +124,23 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Continued working on the mean app. Added the country crud module.
 
 **Link(s) to work** Worked Locally
+
+---
+
+### Day 13: March 16, 2017 - Thursday
+
+**Today's Progress**: Learning Nodejs
+
+**Thoughts** Digging into Nodejs. I discovered NodesJS is the sum of libuv + V8 + C++. In other words Nodes is the C++ program embedded with V8 that is added with wealth of features to make it suitable to be used as a server technologies
+
+**Link(s) to work** Worked Locally
+
+---
+
+### Day 14: March 17, 2017 - Friday
+
+**Today's Progress**: Learning NodeJs 
+
+**Thoughts** Progressed with NodeJs and learned what are modules, commonjs moduels, Frist class functions. Modules is reusable code whose existance doesn't accidently impact other code. Commonjs modules is agreed upon standards that how modules should be used. First class functions are treated as such any other types. They can be passed around in the function, can be assigned to the variable. Put them in arrays. 
+
+**Link(s) to work** Worked Locally
