@@ -144,3 +144,13 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Progressed with NodeJs and learned what are modules, commonjs moduels, Frist class functions. Modules is reusable code whose existance doesn't accidently impact other code. Commonjs modules is agreed upon standards that how modules should be used. First class functions are treated as such any other types. They can be passed around in the function, can be assigned to the variable. Put them in arrays. 
 
 **Link(s) to work** Worked Locally
+
+---
+
+### Day 15: March 18, 2017 - Saturday
+
+**Today's Progress**: Working on Html Tables 
+
+**Thoughts** Today I learnt why the tr don't accept the padding. That how they are designed. It has some problem in the layout as they are made for the tabular data. I also found a somewhat controlled way of dealing how table deals the content inside its cell by using table fixed layout. 
+
+**Link(s) to work** Worked Locally
