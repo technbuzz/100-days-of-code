@@ -154,3 +154,13 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Today I learnt why the tr don't accept the padding. That how they are designed. It has some problem in the layout as they are made for the tabular data. I also found a somewhat controlled way of dealing how table deals the content inside its cell by using table fixed layout. 
 
 **Link(s) to work** Worked Locally
+
+---
+
+### Day 16: March 19, 2017 - Sunday
+
+**Today's Progress**: Working on JavaScript Objects, Variables 
+
+**Thoughts** Inhritence is one object got access to the properties and methods of other object (set of pair values). However the way Javascript implement it is different which is called prototypical inheritense. Construction function is a normal function that is used to create an object. Primitive value is a type of data that represent a single value, a number or string or in other words everything that is not an object. Whenever we pass a primitive value to a function, a copy of a variable is created. Both of these variables point to different location in the memory. When we pass the object to a function they are passed by a reference both inside and outside the function, object refer to the same location in the memory. Scope is where in code you have access to particular function or variable.
+
+**Link(s) to work** Worked Locally
