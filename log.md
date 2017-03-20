@@ -164,3 +164,14 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 **Thoughts** Inhritence is one object got access to the properties and methods of other object (set of pair values). However the way Javascript implement it is different which is called prototypical inheritense. Construction function is a normal function that is used to create an object. Primitive value is a type of data that represent a single value, a number or string or in other words everything that is not an object. Whenever we pass a primitive value to a function, a copy of a variable is created. Both of these variables point to different location in the memory. When we pass the object to a function they are passed by a reference both inside and outside the function, object refer to the same location in the memory. Scope is where in code you have access to particular function or variable.
 
 **Link(s) to work** Worked Locally
+
+---
+
+### Day 17: March 20, 2017 - Monday
+
+**Today's Progress**: Working on Browser Bookmarklet 
+
+**Thoughts** I worked on using browser bookmarklet which is helpful in SEO when you quickly need to find what meta tags and meta content is used
+
+**Link(s) to work** Worked Locally
+
