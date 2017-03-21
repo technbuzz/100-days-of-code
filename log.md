@@ -175,3 +175,28 @@ if it is paused. It also accepts an events when it's **paused** or when it's **r
 
 **Link(s) to work** Worked Locally
 
+---
+
+### Day 18: March 21, 2017 - Tuesday
+
+**Today's Progress**: Working on Bootstrap Collapse
+
+**Thoughts** Today I needed to add and modify the existing collapse module that comes with bootstrap. I found out that it was quite hard. Because although it provide some events like when the element is fully shown or hidden but the evt we get doesn't has reference to the active element header so that I can easily add the plus and minus button. It does give access for the content is shown when an element is expanded. I had to manually traverse from the content to the so called .panel-heading in bootstrap and than to desired element.
+
+This is the code that I wrote 
+```
+$('#addon-accordion').on('shown.bs.collapse', function(evt){
+  var currTarget = evt.target;
+  var prevHeading = $(currTarget).prev('.panel-heading');
+  $(prevHeading).find('.collapse-icon').attr('src','images/sl-icon.png');
+})
+
+$('#addon-accordion').on('hidden.bs.collapse', function(evt){
+  var currTarget = evt.target;
+  var prevHeading = $(currTarget).prev('.panel-heading');
+  $(prevHeading).find('.collapse-icon').attr('src','images/plus-black.png');
+})
+```
+
+**Link(s) to work** Worked Locally
+
