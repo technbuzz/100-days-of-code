@@ -200,3 +200,13 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 
 **Link(s) to work** Worked Locally
 
+---
+
+### Day 18: March 21, 2017 - Tuesday
+
+**Today's Progress :** Working on Media Queries with Sass
+
+**Thoughts :** Sass is great. It adds great functionality to the CSS. But to write the media all at once doesn't come by default with Sass. One way is to write seperate mixin at the end of each include and then call then in one file. That file will contain media queries from entire project
+
+**Link(s) to work :** [Snapshot of the Process](https://www.screencast.com/t/NREP2hEw5)
+
