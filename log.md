@@ -202,11 +202,22 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 
 ---
 
-### Day 18: March 21, 2017 - Tuesday
+### Day 19: March 23, 2017 - Thursday
 
 **Today's Progress :** Working on Media Queries with Sass
 
 **Thoughts :** Sass is great. It adds great functionality to the CSS. But to write the media all at once doesn't come by default with Sass. One way is to write seperate mixin at the end of each include and then call then in one file. That file will contain media queries from entire project
 
 **Link(s) to work :** [Snapshot of the Process](https://www.screencast.com/t/NREP2hEw5)
+
+
+---
+
+### Day 20: March 27, 2017 - Monday
+
+**Today's Progress :** Working on Customizing Checkboxes
+
+**Thoughts :** Using the bootstrap markup of checkboxes, I made the input transparent. Didn't hide it completely as the input wont receive focus and wont change the state if space is pressed. Add the a div element adjacent to the input and styled it according to the input tag.
+
+**Link(s) to work :** Worked Locally
 
