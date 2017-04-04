@@ -221,3 +221,13 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 
 **Link(s) to work :** Worked Locally
 
+---
+
+### Day 21: April 1, 2017 - Tuesday
+
+**Today's Progress :** Getting Started with Ionic
+
+**Thoughts :** Went throught the getting started stages. How to use it's cli and different templates
+
+**Link(s) to work :** Worked Locally
+
