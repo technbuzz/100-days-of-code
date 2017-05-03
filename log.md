@@ -231,3 +231,13 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 
 **Link(s) to work :** Worked Locally
 
+---
+
+### Day 22: May 3, 2017 - Wednesday
+
+**Today's Progress :** Getting Started with Angular
+
+**Thoughts :** Went throught the getting started stages. How to use it's cli and different templates
+
+**Link(s) to work :** Worked Locally
+
