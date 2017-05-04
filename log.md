@@ -241,3 +241,13 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 
 **Link(s) to work :** Worked Locally
 
+---
+
+### Day 23: May 4, 2017 - Thursday
+
+**Today's Progress :** Angular Components 
+
+**Thoughts :** Learn't how to create the component and what are decorators and how they make the communication possible between template and component. Also how to send the data to the child components using @Input property decorators
+
+**Link(s) to work :** Worked Locally
+
