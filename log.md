@@ -240,7 +240,6 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 **Thoughts :** Went throught the getting started stages. How to use it's cli and different templates
 
 **Link(s) to work :** Worked Locally
-
 ---
 
 ### Day 23: May 4, 2017 - Thursday
@@ -250,4 +249,3 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 **Thoughts :** Learn't how to create the component and what are decorators and how they make the communication possible between template and component. Also how to send the data to the child components using @Input property decorators
 
 **Link(s) to work :** Worked Locally
-
