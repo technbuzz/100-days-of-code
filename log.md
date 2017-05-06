@@ -249,3 +249,11 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 **Thoughts :** Learn't how to create the component and what are decorators and how they make the communication possible between template and component. Also how to send the data to the child components using @Input property decorators
 
 **Link(s) to work :** Worked Locally
+
+### Day 24-25: May 6, 2017 - Saturday
+
+**Today's Progress :** JavaScript 6 Array Methods 
+
+**Thoughts :** Fiddled with array methods like forEach filter, map and learnt what's the difference b/w them. Actually forEach loops over every element of the array and return the element. But map and filter iterates over every element and after the callback modification, the modified element is mapped back and returns us the array. In case of filter, if test is passed in the call back function that that value will make its place in to the array that will be returned
+
+**Link(s) to work :** Worked Locally
