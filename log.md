@@ -257,3 +257,12 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 **Thoughts :** Fiddled with array methods like forEach filter, map and learnt what's the difference b/w them. Actually forEach loops over every element of the array and return the element. But map and filter iterates over every element and after the callback modification, the modified element is mapped back and returns us the array. In case of filter, if test is passed in the call back function that that value will make its place in to the array that will be returned
 
 **Link(s) to work :** Worked Locally
+
+### Day 26-27: May 8, 2017 - Monday
+
+**Today's Progress :** CSS Custom Properties - Angular Router
+
+**Thoughts :** As the support of Css Variables landed in Edge 15, It's time to switch to variables for colors, font-sizes and easily add support of themes in your projects, as they can be changed in run time not limited to build time like that of CSS processors like SASS or LESS.
+Getting my head around the Angular Routing. Didn't had much success need to practice
+
+**Link(s) to work :** Worked Locally
