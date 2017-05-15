@@ -266,3 +266,11 @@ $('#addon-accordion').on('hidden.bs.collapse', function(evt){
 Getting my head around the Angular Routing. Didn't had much success need to practice
 
 **Link(s) to work :** Worked Locally
+
+### Day 28-29: May 15, 2017 - Monday
+
+**Today's Progress :** Node 
+
+**Thoughts :** Spinning basic server, serving static assets, handling basic get and post requests. Usage of bodyparser
+
+**Link(s) to work :** Worked Locally
