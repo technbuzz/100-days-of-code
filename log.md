@@ -274,3 +274,11 @@ Getting my head around the Angular Routing. Didn't had much success need to prac
 **Thoughts :** Spinning basic server, serving static assets, handling basic get and post requests. Usage of bodyparser
 
 **Link(s) to work :** Worked Locally
+
+### Day 28-29: May 17, 2017 - Wednesday
+
+**Today's Progress :** Node 
+
+**Thoughts :** express render, #pug template inheritance with block and extends along 
+
+**Link(s) to work :** Worked Locally
